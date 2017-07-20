@@ -18,4 +18,4 @@ github_username:  parallelparker
 # Build settings
 markdown: kramdown
 
-theme: slate
+theme: jekyll-theme-time-machine
